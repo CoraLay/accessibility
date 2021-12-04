@@ -3,7 +3,7 @@
 1 - Código HTML semântico e com texto alternativo para imagens</br>
 2 - Bom contraste entre fonte e fundo</br>
 3 - Menu de acessibilidade com as features</br>
- 3.1 - Alterar cores para daltonismo
+ 3.1 - Alterar cores para daltonismo</br>
  3.2 - Aumento de zoom 
  
  ----------------------------------------------------------------------------------------------
@@ -75,8 +75,8 @@ Vivemos em um mundo tecnológico, no qual é muito difícil não estarmos conect
 Falando sobre facilidades e ainda sobre a acessibilidade na web, o assunto de hoje é sobre um aplicativo para sites, que facilita o acesso das pessoas com deficiência auditiva, os surdos, a navegarem em conteúdos escritos apenas em português.
 
 Para resolver esses problema, pode-se usar ferramentas como:</br>
-•	Handtalk
-•	ProDeaf Weblibras
+•	Handtalk</br>
+•	ProDeaf Weblibras</br>
 •	Próprio site do Governo
 
 
