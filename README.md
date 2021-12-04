@@ -68,8 +68,16 @@ de  cor  com  intensidades diferentes),  quadrada,  composta  e  mais  algumas  
 
 
  ---------------------------------------------------------------------------------------------
+ 
+Surdo/Mudo (Não alfabetizado)
 
+Vivemos em um mundo tecnológico, no qual é muito difícil não estarmos conectados a todo o momento, seja em nossos celulares, notebooks ou nos mais diversos produtos. Por conta da frequência de acessos que temos a eles, estamos habituados a lidar com aplicativos ou plugins que facilitam a nossa vida virtual.
+Falando sobre facilidades e ainda sobre a acessibilidade na web, o assunto de hoje é sobre um aplicativo para sites, que facilita o acesso das pessoas com deficiência auditiva, os surdos, a navegarem em conteúdos escritos apenas em português.
 
+Para resolver esses problema, pode-se usar ferramentas como:</br>
+•	Handtalk
+•	ProDeaf Weblibras
+•	Próprio site do Governo
 
 
 
