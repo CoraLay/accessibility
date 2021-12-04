@@ -41,6 +41,7 @@ Em geral, devemos evitar combinações entre:
 •	Verde & Preto
 ---------------------------------------------------------------------------------------------
 Algumas ferramentas on-line ajudam a escolher cores com contraste adequado:
+
 •	WebAIM Color Contrast Checker
 •	Check My Colours
 •	ColorBrewer 3.0
