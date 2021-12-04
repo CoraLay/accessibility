@@ -11,7 +11,7 @@
  
 ---------------------------------------------------------------------------------------------
  
-DALTONISMO
+## DALTONISMO
 
 
 Nem todo mundo enxerga as cores da mesma maneira. 
@@ -24,34 +24,30 @@ Por isso é importante buscar estratégias que facilitem o entendimento de visua
 
 ---------------------------------------------------------------------------------------------
 
-DICAS PARA DEIXAR O SEU SITE MAIS ACESSÍVEL:
+## DICAS PARA DEIXAR O SEU SITE MAIS ACESSÍVEL:
 
 •	USE PALETAS COM CORES CONTRASTANTES
 
 Usamos e continuaremos usando cores em nossas visualizações. Para isso, é importante escolher cores que tenham contraste suficiente para o máximo possível de pessoas.
-
-Em geral, devemos evitar combinações entre:
-
-•	Vermelho & Verde
-•	Verde & Marrom
-•	Verde & Azul
-•	Azul & Cinza
-•	Azul & Roxo
-•	Verde & Cinza
-•	Verde & Preto
----------------------------------------------------------------------------------------------
+Em geral, devemos evitar combinações entre:</br>
+•	Vermelho & Verde</br>
+•	Verde & Marrom</br>
+•	Verde & Azul</br>
+•	Azul & Cinza</br>
+•	Azul & Roxo</br>
+•	Verde & Cinza</br>
+•	Verde & Preto</br></br>
 Algumas ferramentas on-line ajudam a escolher cores com contraste adequado:
-
-•	WebAIM Color Contrast Checker
-•	Check My Colours
-•	ColorBrewer 3.0
+•	WebAIM Color Contrast Checker</br>
+•	Check My Colours</br>
+•	ColorBrewer 3.0</br>
 •	Coolors
 
----------------------------------------------------------------------------------------------
-A  ADOBE disponibiliza    gratuitamente    uma ferramenta    para    trabalharmos possibilidades de harmonização de cores  incluindo outros tipos de harmonização como  a  monocromática  (utilizando  apenas um  matiz
+A  Adobe, gigante  desenvolvedora  de softwares disponibiliza    gratuitamente    uma ferramenta    para    trabalharmos possibilidades de harmonização de cores  incluindo outros tipos de harmonização como  a  monocromática  (utilizando  apenas um  matiz
 de  cor  com  intensidades diferentes),  quadrada,  composta  e  mais  algumas  variações bastante interessantes para que possamos pensar nossas produções.
 
----------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
 
 
 
