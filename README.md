@@ -8,4 +8,51 @@
  3.1 - Alterar cores para daltonismo
  3.2 - Aumento de zoom 
  
-De acordo com o Censo 2010, quase 46 milhões de brasileiros, cerca de 24% da população, declarou ter algum grau de dificuldade em pelo menos uma das habilidades investigadas (enxergar, ouvir, caminhar ou subir degraus), ou possuir deficiência mental / intelectual.
+ 
+---------------------------------------------------------------------------------------------
+ 
+DALTONISMO
+
+
+Nem todo mundo enxerga as cores da mesma maneira. 
+Segundo a Organização Mundial da Saúde, há no mundo cerca de 350 milhões de pessoas que não conseguem perceber ou diferenciar algumas cores devido a um distúrbio na visão. Estima-se que haja 8 milhões de brasileiros e brasileiras com essa disfunção e é preciso levar isso em conta na hora de criar visualizações de dados, como gráficos, tabelas e mapas.
+
+Pessoas com daltonismo enfrentam barreiras de acessibilidade e essas barreiras existem em situações nas quais apenas cores são utilizadas para transmitir uma mensagem ou quando o contraste entre elas não é bom o suficiente, fazendo com que alguns elementos simplesmente não sejam percebidos por quem tem esse tipo de deficiência.
+As cores também variam de acordo com o modo de acesso, que pode ser um leitor digital de livros em preto e branco, uma tela de computador com configuração de cor alterada, etc.
+Por isso é importante buscar estratégias que facilitem o entendimento de visualizações de dados, independentemente das cores utilizadas.
+
+
+---------------------------------------------------------------------------------------------
+
+DICAS PARA DEIXAR O SEU SITE MAIS ACESSÍVEL:
+
+•	USE PALETAS COM CORES CONTRASTANTES
+
+Usamos e continuaremos usando cores em nossas visualizações. Para isso, é importante escolher cores que tenham contraste suficiente para o máximo possível de pessoas.
+Em geral, devemos evitar combinações entre:
+•	Vermelho & Verde
+•	Verde & Marrom
+•	Verde & Azul
+•	Azul & Cinza
+•	Azul & Roxo
+•	Verde & Cinza
+•	Verde & Preto
+Algumas ferramentas on-line ajudam a escolher cores com contraste adequado:
+•	WebAIM Color Contrast Checker
+•	Check My Colours
+•	ColorBrewer 3.0
+•	Coolors
+
+A  Adobe, gigante  desenvolvedora  de softwares disponibiliza    gratuitamente    uma ferramenta    para    trabalharmos possibilidades de harmonização de cores  incluindo outros tipos de harmonização como  a  monocromática  (utilizando  apenas um  matiz
+de  cor  com  intensidades diferentes),  quadrada,  composta  e  mais  algumas  variações bastante interessantes para que possamos pensar nossas produções.
+
+
+ ---------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
