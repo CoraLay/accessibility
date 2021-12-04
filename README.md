@@ -29,6 +29,7 @@ DICAS PARA DEIXAR O SEU SITE MAIS ACESSÍVEL:
 •	USE PALETAS COM CORES CONTRASTANTES
 
 Usamos e continuaremos usando cores em nossas visualizações. Para isso, é importante escolher cores que tenham contraste suficiente para o máximo possível de pessoas.
+
 Em geral, devemos evitar combinações entre:
 
 •	Vermelho & Verde
