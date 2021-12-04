@@ -30,6 +30,7 @@ DICAS PARA DEIXAR O SEU SITE MAIS ACESSÍVEL:
 
 Usamos e continuaremos usando cores em nossas visualizações. Para isso, é importante escolher cores que tenham contraste suficiente para o máximo possível de pessoas.
 Em geral, devemos evitar combinações entre:
+
 •	Vermelho & Verde
 •	Verde & Marrom
 •	Verde & Azul
@@ -37,6 +38,7 @@ Em geral, devemos evitar combinações entre:
 •	Azul & Roxo
 •	Verde & Cinza
 •	Verde & Preto
+---------------------------------------------------------------------------------------------
 Algumas ferramentas on-line ajudam a escolher cores com contraste adequado:
 •	WebAIM Color Contrast Checker
 •	Check My Colours
