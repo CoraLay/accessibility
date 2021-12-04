@@ -43,11 +43,11 @@ Algumas ferramentas on-line ajudam a escolher cores com contraste adequado:
 •	ColorBrewer 3.0
 •	Coolors
 
-A  Adobe, gigante  desenvolvedora  de softwares disponibiliza    gratuitamente    uma ferramenta    para    trabalharmos possibilidades de harmonização de cores  incluindo outros tipos de harmonização como  a  monocromática  (utilizando  apenas um  matiz
+---------------------------------------------------------------------------------------------
+A  ADOBE disponibiliza    gratuitamente    uma ferramenta    para    trabalharmos possibilidades de harmonização de cores  incluindo outros tipos de harmonização como  a  monocromática  (utilizando  apenas um  matiz
 de  cor  com  intensidades diferentes),  quadrada,  composta  e  mais  algumas  variações bastante interessantes para que possamos pensar nossas produções.
 
-
- ---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
 
 
