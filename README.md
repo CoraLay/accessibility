@@ -37,7 +37,7 @@ Em geral, devemos evitar combinações entre:</br>
 •	Azul & Roxo</br>
 •	Verde & Cinza</br>
 •	Verde & Preto</br></br>
-Algumas ferramentas on-line ajudam a escolher cores com contraste adequado:
+Algumas ferramentas on-line ajudam a escolher cores com contraste adequado:</br>
 •	WebAIM Color Contrast Checker</br>
 •	Check My Colours</br>
 •	ColorBrewer 3.0</br>
