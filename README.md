@@ -1,5 +1,3 @@
-# O que é acessibilidade
-## Importância da acessibilidade
 
 
 1 - Código HTML semântico e com texto alternativo para imagens</br>
@@ -8,6 +6,28 @@
  3.1 - Alterar cores para daltonismo
  3.2 - Aumento de zoom 
  
+ ----------------------------------------------------------------------------------------------
+INTRODUÇÃO
+
+O que é acessibilidade?
+
+No senso comum, acessibilidade parece evidenciar os aspectos referentes ao uso dos espaços físicos. Entretanto, numa acepção mais ampla, a acessibilidade é condição de possibilidade para a transposição dos entraves que representam as barreiras para a efetiva participação de pessoas nos vários âmbitos da vida social.
+
+
+Com quem queremos conversar? 
+Segundo informações da CNN, o Brasil tem mais de 17,3 milhões de pessoas acima de 2 anos de idade com algum tipo de deficiência, quase metade dessa parcela (49,2%) é de idosos. 
+
+A pesquisa também detalha que da população acima de 2 anos de idade com deficiência no Brasil:
+
+- 3,8% Deficiência física nos membros inferiores
+- 3,4% Deficiência visual
+- 2,7% Deficiência física nos membros superiores
+- 1,2% Deficiência intelectual
+- 1,1% Deficiência auditiva
+
+Falando especificamente da deficiência visual em âmbito global, temos um total estimado de 253 milhões de pessoas.
+
+Esses dados evidenciam que existe muito trabalho a ser feito tanto em questões sociais quanto de mercado, desenvolver uma aplicação acessível não é só cumprir uma missão de inclusão social, mas também potencializar as possibilidades de negócio.
  
 ---------------------------------------------------------------------------------------------
  
